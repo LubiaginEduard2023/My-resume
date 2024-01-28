@@ -22,12 +22,7 @@ h1{ text-decoration:underline;}
 .display{
 display:flex
 }
-@media(max-width:650px){
-    .display{
-        display: block;
-        text-align: center;
-    }
-}
+
 
 .avatar{
     margin-top: 15px;
